@@ -1,0 +1,9 @@
+pybind11
+torch
+regex
+einops
+datasets
+sentencepiece
+transformers
+nltk
+git+https://github.com/EleutherAI/lm-evaluation-harness.git@master
